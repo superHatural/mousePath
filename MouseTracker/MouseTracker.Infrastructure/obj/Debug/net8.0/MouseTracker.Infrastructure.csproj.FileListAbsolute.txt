@@ -1,0 +1,17 @@
+D:\testproj\mousePath\mousePath\MouseTracker\MouseTracker.Infrastructure\bin\Debug\net8.0\MouseTracker.Infrastructure.deps.json
+D:\testproj\mousePath\mousePath\MouseTracker\MouseTracker.Infrastructure\bin\Debug\net8.0\MouseTracker.Infrastructure.dll
+D:\testproj\mousePath\mousePath\MouseTracker\MouseTracker.Infrastructure\bin\Debug\net8.0\MouseTracker.Infrastructure.pdb
+D:\testproj\mousePath\mousePath\MouseTracker\MouseTracker.Infrastructure\bin\Debug\net8.0\MouseTracker.Application.dll
+D:\testproj\mousePath\mousePath\MouseTracker\MouseTracker.Infrastructure\bin\Debug\net8.0\MouseTracker.Domain.dll
+D:\testproj\mousePath\mousePath\MouseTracker\MouseTracker.Infrastructure\bin\Debug\net8.0\MouseTracker.Application.pdb
+D:\testproj\mousePath\mousePath\MouseTracker\MouseTracker.Infrastructure\bin\Debug\net8.0\MouseTracker.Domain.pdb
+D:\testproj\mousePath\mousePath\MouseTracker\MouseTracker.Infrastructure\obj\Debug\net8.0\MouseTracker.Infrastructure.csproj.AssemblyReference.cache
+D:\testproj\mousePath\mousePath\MouseTracker\MouseTracker.Infrastructure\obj\Debug\net8.0\MouseTracker.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\testproj\mousePath\mousePath\MouseTracker\MouseTracker.Infrastructure\obj\Debug\net8.0\MouseTracker.Infrastructure.AssemblyInfoInputs.cache
+D:\testproj\mousePath\mousePath\MouseTracker\MouseTracker.Infrastructure\obj\Debug\net8.0\MouseTracker.Infrastructure.AssemblyInfo.cs
+D:\testproj\mousePath\mousePath\MouseTracker\MouseTracker.Infrastructure\obj\Debug\net8.0\MouseTracker.Infrastructure.csproj.CoreCompileInputs.cache
+D:\testproj\mousePath\mousePath\MouseTracker\MouseTracker.Infrastructure\obj\Debug\net8.0\MouseTra.49D76957.Up2Date
+D:\testproj\mousePath\mousePath\MouseTracker\MouseTracker.Infrastructure\obj\Debug\net8.0\MouseTracker.Infrastructure.dll
+D:\testproj\mousePath\mousePath\MouseTracker\MouseTracker.Infrastructure\obj\Debug\net8.0\refint\MouseTracker.Infrastructure.dll
+D:\testproj\mousePath\mousePath\MouseTracker\MouseTracker.Infrastructure\obj\Debug\net8.0\MouseTracker.Infrastructure.pdb
+D:\testproj\mousePath\mousePath\MouseTracker\MouseTracker.Infrastructure\obj\Debug\net8.0\ref\MouseTracker.Infrastructure.dll

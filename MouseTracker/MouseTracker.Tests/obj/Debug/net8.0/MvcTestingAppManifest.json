@@ -1,0 +1,6 @@
+{
+  "MouseTracker.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\testproj\\mousePath\\mousePath\\MouseTracker\\MouseTracker.Application",
+  "MouseTracker.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\testproj\\mousePath\\mousePath\\MouseTracker\\MouseTracker.Domain",
+  "MouseTracker.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\testproj\\mousePath\\mousePath\\MouseTracker\\MouseTracker.Infrastructure",
+  "MouseTracker.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\testproj\\mousePath\\mousePath\\MouseTracker\\MouseTracker.Web"
+}

@@ -2,13 +2,13 @@ namespace MouseTracker.Domain;
 
 public class Track
 {
-    public Track(int x, int y, long time)
+    public Track(int coordX, int coordY, long time)
     {
-        X = x;
-        Y = y;
-        Time = time;
+        CoordX = coordX;
+        CoordY = coordY;
+        Time = time;            
     }
-    public int X { get;}
-    public int Y { get;}
-    public long Time{get;}
-}
+    public int CoordX { get;}
+    public int CoordY { get;}
+    public long Time{ get;}
+}                   

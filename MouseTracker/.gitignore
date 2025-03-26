@@ -1,0 +1,22 @@
+# Ignored folders
+/bin/
+/obj/
+**/bin/
+**/obj/
+
+# Temporary files
+*.tmp
+*.log
+
+# IDE-specific files
+.vs/
+.vscode/
+.idea/
+
+# Build artifacts
+*.dll
+*.exe
+*.pdb
+
+# Environment files
+.env
